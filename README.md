@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with iOS Development, Web Development and Advanced ML
 - 💬 Ask me about ML and DL
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ler-Tor&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Ler-Tor" /></p>
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ler-Tor&show_icons=true&locale=en&theme=tokyonight" alt="Ler-Tor" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ler-Tor&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Ler-
+Tor" /></p>
+
 
 
 
